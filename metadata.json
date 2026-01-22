@@ -1,0 +1,7 @@
+{
+  "name": "Ram Sir - Samyak AI Voice Chatbot",
+  "description": "An interactive AI voice assistant for Samyak Computer Classes, providing detailed information about courses like Python, Data Science, and AI in natural Hindi/English.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
